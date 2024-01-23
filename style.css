@@ -1,0 +1,29 @@
+header{
+    text-align: center;
+    width: auto;
+}
+container{
+    margin: left 50px;
+    margin-right: 50px;
+    background-color: aquamarine;
+    border-spacing: 20px;
+}
+h3{
+    color: blue;
+}
+h1,h2{
+    color: red;
+}
+footer{
+    background-color:whitesmoke;
+    text-align: center;
+    text-decoration: solid;
+}
+.container-sm{
+    border: 5px solid black;
+}
+img{
+    width: 10%;
+    height: 10%;
+    
+}
